@@ -1,9 +1,7 @@
  Hi there 👋
-
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- ⚡ Fun fact: ...
+ 
+- 🔭 I’m currently working on: Praticing some coding 
+- 🌱 I’m currently learning: Cyber Securty & AI 
+- 👯 I’m looking to collaborate on: Anything!
+- 🤔 I’m looking for help with: AI tracking 
+- 📫 How to reach me: Twitter Follow me @ezapEZ 
