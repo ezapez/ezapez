@@ -77,5 +77,5 @@
     <img src="https://komarev.com/ghpvc/?username=ezapez">
  
  
-##🏣 Projects
+## 🚢 Projects
  -QuizMe flutter app  -  🚧 in progress 
