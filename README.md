@@ -78,4 +78,4 @@
  
  
 ## 🚢 Projects
- -QuizMe flutter app  -  🚧 in progress 
+ - QuizMe flutter WebApp  -  🚧 in progress 
