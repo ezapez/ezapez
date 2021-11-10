@@ -11,7 +11,7 @@
  <ul>
   <b>
   <li > 🔭 I’m currently working on: Praticing some coding</li>
-  <li> 🌱 I’m currently learning: Cyber Securty & AI </li>
+  <li> 🌱 I’m currently learning: Cyber Security & AI </li>
   <li> 👯 I’m looking to collaborate on: Anything! </li>
   <li> 🤔 I’m looking for help with: AI tracking </li>
   </b>
@@ -25,7 +25,7 @@
   <b>
   <li > 🤖 AI & machine learing </li>
   <li> 👾 Blockchain Technologies</li>
-  <li> 📡 Cyber Securty </li>
+  <li> 📡 Cyber Security </li>
   </b>
   </ul>
 </p>
@@ -75,3 +75,7 @@
 </p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ezapez">
+ 
+ 
+##🏣 Projects
+ -QuizMe flutter app  -  🚧 in progress 
