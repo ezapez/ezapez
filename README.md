@@ -7,16 +7,21 @@
 
  
 ## 🔥 About Me 
-- 🔭 I’m currently working on: Praticing some coding 
-- 🌱 I’m currently learning: Cyber Securty & AI 
-- 👯 I’m looking to collaborate on: Anything!
-- 🤔 I’m looking for help with: AI tracking 
-
+<p>
+ <ul>
+  <b>
+  <li > 🔭 I’m currently working on: Praticing some coding</li>
+  <li> 🌱 I’m currently learning: Cyber Securty & AI </li>
+  <li> 👯 I’m looking to collaborate on: Anything! </li>
+  <li>🤔 I’m looking for help with: AI tracking </li>
+  </b>
+  </ul>
+</p>
 
 
 
 ## 🚀 Languages and Tools:
-<p align="left"> 
+<p align="center"> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
