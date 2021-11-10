@@ -13,7 +13,19 @@
   <li > 🔭 I’m currently working on: Praticing some coding</li>
   <li> 🌱 I’m currently learning: Cyber Securty & AI </li>
   <li> 👯 I’m looking to collaborate on: Anything! </li>
-  <li>🤔 I’m looking for help with: AI tracking </li>
+  <li> 🤔 I’m looking for help with: AI tracking </li>
+  </b>
+  </ul>
+</p>
+
+
+## 👹 Interest:
+<p>
+ <ul>
+  <b>
+  <li > 🤖 AI & machine learing </li>
+  <li> 👾 Blockchain Technologies</li>
+  <li> 📡 Cyber Securty </li>
   </b>
   </ul>
 </p>
