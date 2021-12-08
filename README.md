@@ -23,7 +23,7 @@
 <p>
  <ul>
   <b>
-  <li > 🤖 AI & machine learing </li>
+  <li > 🤖 AI & machine learning </li>
   <li> 👾 Blockchain Technologies</li>
   <li> 📡 Cyber Security </li>
   </b>
