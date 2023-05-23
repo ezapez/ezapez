@@ -55,7 +55,8 @@
     
 
   <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezapez&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+   <a href="https://github.com/ezapez/github-readme-stats"><img alt="Edgar Zapata Github Stats" src="[https://github-readme-stats.vercel.app/api?username=ezapez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=ezapez&layout=donut)" /></a>
+    
 
 <br/>
 <br/>
