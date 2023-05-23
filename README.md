@@ -70,7 +70,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/edgar-zapata-97b90a204/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ezapEZ"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
 
 
 
@@ -80,4 +80,4 @@
  
  
 ## 🚢 Projects
- - QuizMe flutter WebApp  -  🚧 in progress 
+ 
