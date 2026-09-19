@@ -1,8 +1,6 @@
 <div align="center">
 
-# Edgar Zapata
-
-### Backend Developer | Automation & Data Engineering
+<img src="profile-banner.svg" width="100%" alt="Edgar Zapata — Backend Developer, Automation and Data Engineering" />
 
 I build reliable backend systems, data pipelines, and workflow automations that turn complex processes into maintainable software.
 
@@ -60,17 +58,21 @@ I build reliable backend systems, data pipelines, and workflow automations that 
 | **Pierce Arrow — System Engineer** | Built state-tracked approval automation and integrated Teams, SharePoint, email, and calendar workflows. |
 | **Independent PC Repair & Resale** | Diagnosed, repaired, upgraded, tested, and resold gaming PCs, generating approximately $1,200 in profit. |
 
-## Selected Projects
+## Featured Projects
 
-- [**Emotion Logs**](https://github.com/ezapez/emotion-logs) — Python application for recording moods and analyzing emotional patterns over time
-- [**AnalytiZap**](https://github.com/ezapez/AnalytiZap) — Portfolio analysis project for cryptocurrency and stock data
-- [**Weather App**](https://github.com/ezapez/weather-app) — Flask-based weather application
-- [**QuizMe Flutter App**](https://github.com/ezapez/quizme-flutterapp) — Flutter quiz application with a teacher interface for creating quizzes
+| Project | What it demonstrates | Technology |
+| --- | --- | --- |
+| [**Emotion Logs**](https://github.com/ezapez/emotion-logs) | Records moods and helps users identify emotional patterns over time. | `Python` |
+| [**AnalytiZap**](https://github.com/ezapez/AnalytiZap) | Explores portfolio analysis for cryptocurrency and stock data. | `Data Analysis` `Finance` |
+| [**Weather App**](https://github.com/ezapez/weather-app) | Retrieves and presents weather information through a web interface. | `Python` `Flask` `HTML` |
+| [**QuizMe**](https://github.com/ezapez/quizme-flutterapp) | Provides a teacher interface for creating and managing quizzes. | `Flutter` `Dart` |
 
-## Currently Building
+> **In progress:** A production-style customer data pipeline with validation, quarantine reporting, deterministic deduplication, and Type 2 slowly changing history.
 
-- A production-style customer data pipeline that validates messy partner files, quarantines invalid rows, performs deterministic deduplication, and maintains Type 2 slowly changing history
-- Python automation and data-analysis projects designed to demonstrate practical, job-ready engineering skills
+## Current Focus
+
+- Building Python automation and data-analysis projects that demonstrate practical engineering skills
+- Strengthening data modeling, pipeline reliability, deterministic processing, and test coverage
 
 ## GitHub Activity
 

@@ -1,0 +1,47 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B2748"/>
+      <stop offset="1" stop-color="#0A66C2"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="222" y1="80" x2="1010" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" rx="24" fill="url(#background)"/>
+  <circle cx="1080" cy="32" r="190" fill="#38BDF8" fill-opacity="0.08"/>
+  <circle cx="75" cy="270" r="175" fill="#60A5FA" fill-opacity="0.08"/>
+
+  <g opacity="0.24" stroke="#7DD3FC" stroke-width="2">
+    <path d="M20 62H150L185 97H275"/>
+    <path d="M925 55H1040L1075 90H1180"/>
+    <path d="M900 226H1010L1040 196H1180"/>
+    <circle cx="150" cy="62" r="5" fill="#7DD3FC"/>
+    <circle cx="275" cy="97" r="5" fill="#7DD3FC"/>
+    <circle cx="925" cy="55" r="5" fill="#7DD3FC"/>
+    <circle cx="900" cy="226" r="5" fill="#7DD3FC"/>
+  </g>
+
+  <g filter="url(#glow)" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M151 101L105 140L151 179"/>
+    <path d="M209 101L255 140L209 179"/>
+    <path d="M190 87L169 193"/>
+  </g>
+
+  <text x="320" y="125" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1">EDGAR ZAPATA</text>
+  <text x="323" y="174" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="500" letter-spacing="2">BACKEND • AUTOMATION • DATA ENGINEERING</text>
+  <rect x="323" y="198" width="545" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <g fill="#E0F2FE" font-family="Consolas, monospace" font-size="16" opacity="0.9">
+    <text x="950" y="125">{ build }</text>
+    <text x="950" y="151">{ automate }</text>
+    <text x="950" y="177">{ improve }</text>
+  </g>
+</svg>
