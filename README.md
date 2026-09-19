@@ -76,8 +76,13 @@ I build reliable backend systems, data pipelines, and workflow automations that 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ezapez&show_icons=true&hide_border=true&theme=transparent" alt="Edgar Zapata's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezapez&layout=compact&hide_border=true&theme=transparent" alt="Edgar Zapata's most-used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezapez&theme=github" alt="Edgar Zapata's GitHub activity summary" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ezapez&theme=github" alt="Edgar Zapata's GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezapez&theme=github" alt="Edgar Zapata's repositories by language" />
+
+![Followers](https://img.shields.io/github/followers/ezapez?style=for-the-badge&label=Followers)
+![Profile Updated](https://img.shields.io/github/last-commit/ezapez/ezapez?style=for-the-badge&label=Profile%20Updated)
 
 </div>
 
