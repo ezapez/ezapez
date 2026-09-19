@@ -7,6 +7,10 @@ I build reliable backend systems, data pipelines, and workflow automations that 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edgarmzapata54-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgarmzapata54/)
 [![Location](https://img.shields.io/badge/Wichita_Falls-Texas-333333?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_%7C_Data_%7C_Automation-16A34A?style=flat-square)
+![Remote Experience](https://img.shields.io/badge/Experience-Remote_Teams-2563EB?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ezapez&style=flat-square&color=0A66C2&label=Profile+Views)
+
 </div>
 
 ## About Me
@@ -17,6 +21,12 @@ I build reliable backend systems, data pipelines, and workflow automations that 
 - Former **System Engineer at Pierce Arrow**, creating event-driven approval workflows and integrations across Microsoft Teams, SharePoint, and email
 - First-place recipient at the **20th MSU Texas Undergraduate Research Forum** for machine-learning financial analysis
 - Based in Wichita Falls, Texas, and open to backend, automation, data engineering, and software engineering opportunities
+
+## Engineering Approach
+
+| Reliable Systems | Clean Data | Useful Automation |
+| --- | --- | --- |
+| I design for predictable behavior, clear failure states, and maintainable code. | I validate inputs, preserve meaning, and make bad records visible instead of silently dropping them. | I automate repetitive work so teams can focus on decisions rather than manual processing. |
 
 ## What I Work With
 
@@ -57,6 +67,13 @@ I build reliable backend systems, data pipelines, and workflow automations that 
 | **Comcast — Enterprise Data Analytics Intern** | Cleaned and transformed 3M+ enterprise records with Teradata SQL and investigated anomalies with Python and Pandas. |
 | **Pierce Arrow — System Engineer** | Built state-tracked approval automation and integrated Teams, SharePoint, email, and calendar workflows. |
 | **Independent PC Repair & Resale** | Diagnosed, repaired, upgraded, tested, and resold gaming PCs, generating approximately $1,200 in profit. |
+
+## Education, Awards & Certifications
+
+- **B.S. Computer Science**, Midwestern State University — May 2026
+- **1st Place**, 20th MSU Texas Undergraduate Research Forum — Machine-Learning Financial Analysis
+- **Intermediate Cybersecurity**, CodePath — 2023
+- **Technical Interview Prep**, CodePath — 2023
 
 ## Featured Projects
 
